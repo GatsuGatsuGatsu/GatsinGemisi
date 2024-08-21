@@ -1,0 +1,46 @@
+* {
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+body, .container {
+    height: 100vh;
+    background-color: rgb(131, 189, 255);
+    color: rgb(24, 24, 24);
+}
+
+.siteName {
+    justify-content: center;
+    padding: 2%;
+
+}
+
+.siteSubName {
+    justify-content: center;
+    padding-bottom: 2%;
+
+}
+
+.header-row {
+    text-align: center;
+}
+
+.header-para-row {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 1.2em;
+}
+
+.header-para {
+    width: 70%;
+}
+
+.gatsu {
+    text-align: center;
+    padding: 5%;
+}
+
+.gatsu-img {
+    height: 40%;
+}
